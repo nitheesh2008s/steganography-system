@@ -1,0 +1,6 @@
+streamlit==1.37.0
+pillow==10.4.0
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+pyzbar==0.1.9
+streamlit-option-menu==0.3.13
